@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuj5qVPM1bEysNXS0SURTmgAAAAACAAAAAAAQZgAAAAEAACAAAACacTzJGwOc5OjcpmseG0rGVXAK1Lt0yA+a/gjj24QjlwAAAAAOgAAAAAIAACAAAAB5iNdgzSmLCaogHk0CaibmkEkSuFQaDonsgpz2Fso3BSAAAADGfNO4JHLKpm94DY2eWE95+kQxz2t6s/N2zum7+79DpUAAAADq0rBS8ZnBg6PT/No/uE19vUCjtNsGj/jRNuOj1Gqz7qYbzC3QcVqsoma+j65yV6eJtCvY1xszheiCSAAjsRxv</EncryptedPassword>
+    <_PublishTargetUrl>https://miller042-001-site2.btempurl.com:8172/MsDeploy.axd?site=miller042-001-site2/miller042-001-site2</_PublishTargetUrl>
+    <History>True|2021-07-27T12:15:34.2170571Z;True|2021-07-27T20:15:49.8447577+10:00;True|2021-07-27T20:11:35.5338179+10:00;True|2021-07-27T20:04:04.7454785+10:00;True|2021-07-27T19:54:36.5529437+10:00;False|2021-07-27T19:54:10.8771652+10:00;True|2021-07-27T19:38:30.6082295+10:00;True|2021-07-27T19:34:13.7325371+10:00;True|2021-07-27T19:26:44.9111008+10:00;False|2021-07-27T19:23:02.4699581+10:00;True|2021-07-27T19:22:17.1658711+10:00;True|2021-07-27T19:12:10.0821709+10:00;True|2021-07-27T19:10:26.0589928+10:00;True|2021-07-27T19:09:05.5742591+10:00;True|2021-07-27T19:06:59.7034622+10:00;True|2021-07-27T18:40:04.2801434+10:00;True|2021-07-27T18:31:48.6449974+10:00;False|2021-07-27T18:23:01.0261871+10:00;False|2021-07-27T18:13:42.4775386+10:00;False|2021-07-27T18:08:55.0771261+10:00;False|2021-07-27T18:08:27.8645514+10:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="EmployeeAppCon">
+      <Value>Data Source=SQL5105.site4now.net%3bInitial Catalog=db_a77dfe_employeedb%3bUser Id=db_a77dfe_employeedb_admin%3bPassword=employeedb123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

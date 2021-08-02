@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+<div style="width: 50%; float:left">
+    <!-- #left content in here -->
+    
+
+<div class="row g-2">
+    <div class="col-md">
+      <div class="form-floating">
+        <input type="text" class="form-control" [(ngModel)]="EmployeeName" placeholder="Enter Employee Name">
+        <label for="floatingInputGrid">Employee Name</label>
+      </div>
+    </div>
+
+
+    <div class="form-floating">
+        <select class="form-select" id="floatingSelect" [(ngModel)]="Department">
+            <option selected>Select the Department</option>
+            <option *ngFor="let depName of DepartmentsList">
+                {{depName.DepartmentName}}
+            </option>
+        </select>
+        <label for="floatingSelect">Department</label>
+      </div>
+
+
+      <div class="col-md">
+        <div class="form-floating">
+          <input type="date" class="form-control" [(ngModel)]="DateOfJoining" placeholder="Select Date of Joining">
+          <label for="floatingInputGrid">Date of Joining</label>
+        </div>
+      </div>
+
+
+      
+<button (click)="addEmployee()" *ngIf="emp.EmployeeId==0" class="btn btn-primary">
+    Add
+</button>
+
+<button (click)="updateEmployee()" *ngIf="emp.EmployeeId!=0" class="btn btn-primary">
+    Update
+</button>
+
+</div>
+</div>
+ 
+ <div style="width: 50%; float:right; padding-left: 80px;">
+    <!-- right content in there -->
+    <div class="ml-3 bd-highlight" style="width: 40%;">
+        <img [src]=PhotoFilePath height="250px;" width="200px;">
+        <input type="file" (change)="uploadPhoto($event)" class="mt-2"/>
+        </div>    
+ </div>

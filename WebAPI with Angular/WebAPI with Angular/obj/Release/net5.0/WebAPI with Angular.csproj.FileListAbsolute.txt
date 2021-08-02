@@ -1,0 +1,50 @@
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\appsettings.json
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.exe
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.deps.json
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.runtimeconfig.json
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.runtimeconfig.dev.json
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\ref\WebAPI with Angular.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.pdb
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.Views.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\WebAPI with Angular.Views.pdb
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.csproj.AssemblyReference.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.AssemblyInfoInputs.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.AssemblyInfo.cs
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.csproj.CoreCompileInputs.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.RazorAssemblyInfo.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.RazorAssemblyInfo.cs
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\staticwebassets\WebAPI with Angular.StaticWebAssets.Manifest.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\staticwebassets\WebAPI with Angular.StaticWebAssets.xml
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\scopedcss\bundle\WebAPI with Angular.styles.css
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.TagHelpers.input.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.TagHelpers.output.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.RazorCoreGenerate.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.RazorTargetAssemblyInfo.cache
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.RazorTargetAssemblyInfo.cs
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.Views.pdb
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.csproj.CopyComplete
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\ref\WebAPI with Angular.dll
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.pdb
+C:\Users\ryan_\Desktop\Web Development\Angular + .NET\WebAPI with Angular\WebAPI with Angular\WebAPI with Angular\obj\Release\net5.0\WebAPI with Angular.genruntimeconfig.cache
